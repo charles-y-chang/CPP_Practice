@@ -2,10 +2,18 @@
 //
 
 #include <iostream>
+using namespace std;
+
+int square(int);
 
 int main()
 {
-    std::cout << "Hello World!\n";
+	int a = 10;
+	cout << a << " squared: " << square(a) << endl;
+}
+
+int square(int x) {
+	return x * x;
 }
 
 // 執行程式: Ctrl + F5 或 [偵錯] > [啟動但不偵錯] 功能表
