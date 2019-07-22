@@ -1,0 +1,6 @@
+﻿  0722.cpp
+  GradeBook.cpp
+  正在產生程式碼...
+  C:\Users\charles\source\repos\0722\GradeBook.cpp(45) : error C4716: 'GradeBook::getMinimum': 必須傳回值
+  C:\Users\charles\source\repos\0722\GradeBook.cpp(56) : error C4716: 'GradeBook::getMaximum': 必須傳回值
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(429,5): error MSB6006: "CL.exe" 以返回碼 2 結束。
