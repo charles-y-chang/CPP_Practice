@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\charles\source\repos\CPP_Practice\ch7\0706\Source.cpp(8,13): error C2734:  'j': 如果不是 'extern'，'const' 物件必須初始化
+C:\Users\charles\source\repos\CPP_Practice\ch7\0706\Source.cpp(9,8): error C3892:  'j': 無法對 const 變數進行指定動作
