@@ -1,0 +1,3 @@
+﻿  0812.cpp
+C:\Users\charles\source\repos\CPP_Practice\ch8\0812\0812.cpp(13,10): error C3892:  'ptr': 無法對 const 變數進行指定動作
+C:\Users\charles\source\repos\CPP_Practice\ch8\0812\0812.cpp(14,10): error C3892:  'ptr': 無法對 const 變數進行指定動作

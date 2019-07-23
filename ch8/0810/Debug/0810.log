@@ -1,0 +1,2 @@
+﻿  0810.cpp
+C:\Users\charles\source\repos\CPP_Practice\ch8\0810\0810.cpp(13,13): error C3892:  'xPtr': 無法對 const 變數進行指定動作

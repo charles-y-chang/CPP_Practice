@@ -1,0 +1,2 @@
+﻿  0811.cpp
+C:\Users\charles\source\repos\CPP_Practice\ch8\0811\0811.cpp(11,10): error C3892:  'ptr': 無法對 const 變數進行指定動作
