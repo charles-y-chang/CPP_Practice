@@ -1,0 +1,4 @@
+﻿  0912.cpp
+  Time.cpp
+  正在產生程式碼...
+C:\Users\charles\source\repos\CPP_Practice\ch8\0912\0912.cpp(11,33): error C2440:  '正在初始化': 無法由 'unsigned int' 轉換為 'int &'
