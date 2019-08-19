@@ -1,0 +1,5 @@
+﻿  1008.cpp
+  Date.cpp
+  正在產生程式碼...
+C:\Users\charles\source\repos\CPP_Practice\ch10\1008\Date.cpp(46,20): warning C4018:  '<': signed/unsigned 不相符
+  1008.vcxproj -> C:\Users\charles\source\repos\CPP_Practice\ch10\1008\x64\Debug\1008.exe
